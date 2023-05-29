@@ -527,9 +527,7 @@ color: red;
 
 /* Hikkaduwa page */
 
-#heading-hikk{
-  
-   
+.heading-hikk{
     font-size: 80px;
     position: absolute ;
     color: white;
